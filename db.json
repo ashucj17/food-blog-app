@@ -1,112 +1,112 @@
 {
-    "foods": [
-      {
-        "id": 1,
-        "name": "Spaghetti Carbonara",
-        "image": "https://via.placeholder.com/300",
-        "category": "Italian",
-        "description": "A classic Italian pasta dish with eggs, cheese, and pancetta",
-        "ingredients": [
-          "400g spaghetti",
-          "200g pancetta or guanciale",
-          "4 large eggs",
-          "100g Pecorino Romano cheese",
-          "50g Parmigiano Reggiano",
-          "2 cloves garlic",
-          "Black pepper",
-          "Salt"
-        ],
-        "instructions": [
-          "Cook the pasta in salted water until al dente",
-          "Sauté the pancetta until crispy",
-          "Mix the eggs and cheese in a bowl",
-          "Combine pasta with pancetta, then add the egg mixture off heat",
-          "Season with pepper and serve immediately"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Butter Chicken",
-        "image": "https://via.placeholder.com/300",
-        "category": "Indian",
-        "description": "Creamy and flavorful Indian chicken curry",
-        "ingredients": [
-          "800g boneless chicken",
-          "2 onions",
-          "4 tomatoes",
-          "4 cloves garlic",
-          "2-inch ginger",
-          "100g butter",
-          "200ml cream",
-          "2 tbsp garam masala",
-          "2 tbsp tandoori masala",
-          "1 tbsp cumin",
-          "Salt to taste"
-        ],
-        "instructions": [
-          "Marinate chicken with yogurt and spices for 2 hours",
-          "Grill or bake chicken until partially cooked",
-          "Make tomato gravy with butter, onions, and spices",
-          "Add grilled chicken to the gravy and simmer",
-          "Finish with cream and serve with naan"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Taco Salad",
-        "image": "https://via.placeholder.com/300",
-        "category": "Mexican",
-        "description": "Fresh and crunchy Mexican salad with seasoned ground beef",
-        "ingredients": [
-          "500g ground beef",
-          "1 packet taco seasoning",
-          "1 head iceberg lettuce",
-          "2 tomatoes",
-          "1 avocado",
-          "1 cup shredded cheddar cheese",
-          "1 can black beans",
-          "1 can corn",
-          "Tortilla chips",
-          "Sour cream",
-          "Salsa"
-        ],
-        "instructions": [
-          "Brown the ground beef and add taco seasoning",
-          "Chop lettuce, tomatoes, and avocado",
-          "Rinse black beans and corn",
-          "Layer ingredients in a large bowl",
-          "Top with cheese, sour cream, and salsa",
-          "Add crushed tortilla chips and serve"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Vegetable Stir Fry",
-        "image": "https://via.placeholder.com/300",
-        "category": "Asian",
-        "description": "Quick and healthy vegetable stir fry with soy sauce",
-        "ingredients": [
-          "2 bell peppers",
-          "1 broccoli head",
-          "2 carrots",
-          "1 zucchini",
-          "1 onion",
-          "3 cloves garlic",
-          "2 tbsp soy sauce",
-          "1 tbsp sesame oil",
-          "1 tbsp honey",
-          "1 tsp ginger paste"
-        ],
-        "instructions": [
-          "Chop all vegetables into bite-sized pieces",
-          "Heat oil in a wok over high heat",
-          "Add garlic and onion, stir for 30 seconds",
-          "Add harder vegetables first (carrots, broccoli)",
-          "Add remaining vegetables and stir fry until tender-crisp",
-          "Mix soy sauce, honey, and ginger in a bowl",
-          "Pour sauce over vegetables and toss to coat",
-          "Serve over rice or noodles"
-        ]
-      }
-    ]
-  }
+  "foods": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "image": "/images/spaghetti-carbonara.jpg",
+      "category": "Italian",
+      "description": "A classic Italian pasta dish with eggs, cheese, and pancetta",
+      "ingredients": [
+        "400g spaghetti",
+        "200g pancetta or guanciale",
+        "4 large eggs",
+        "100g Pecorino Romano cheese",
+        "50g Parmigiano Reggiano",
+        "2 cloves garlic",
+        "Black pepper",
+        "Salt"
+      ],
+      "instructions": [
+        "Cook the pasta in salted water until al dente",
+        "Sauté the pancetta until crispy",
+        "Mix the eggs and cheese in a bowl",
+        "Combine pasta with pancetta, then add the egg mixture off heat",
+        "Season with pepper and serve immediately"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Butter Chicken",
+      "image": "/images/butter-chicken.jpg",
+      "category": "Indian",
+      "description": "Creamy and flavorful Indian chicken curry",
+      "ingredients": [
+        "800g boneless chicken",
+        "2 onions",
+        "4 tomatoes",
+        "4 cloves garlic",
+        "2-inch ginger",
+        "100g butter",
+        "200ml cream",
+        "2 tbsp garam masala",
+        "2 tbsp tandoori masala",
+        "1 tbsp cumin",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt and spices for 2 hours",
+        "Grill or bake chicken until partially cooked",
+        "Make tomato gravy with butter, onions, and spices",
+        "Add grilled chicken to the gravy and simmer",
+        "Finish with cream and serve with naan"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Taco Salad",
+      "image": "/images/taco-salad.jpg",
+      "category": "Mexican",
+      "description": "Fresh and crunchy Mexican salad with seasoned ground beef",
+      "ingredients": [
+        "500g ground beef",
+        "1 packet taco seasoning",
+        "1 head iceberg lettuce",
+        "2 tomatoes",
+        "1 avocado",
+        "1 cup shredded cheddar cheese",
+        "1 can black beans",
+        "1 can corn",
+        "Tortilla chips",
+        "Sour cream",
+        "Salsa"
+      ],
+      "instructions": [
+        "Brown the ground beef and add taco seasoning",
+        "Chop lettuce, tomatoes, and avocado",
+        "Rinse black beans and corn",
+        "Layer ingredients in a large bowl",
+        "Top with cheese, sour cream, and salsa",
+        "Add crushed tortilla chips and serve"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Vegetable Stir Fry",
+      "image": "/images/vegetable-stir-fry.jpg",
+      "category": "Asian",
+      "description": "Quick and healthy vegetable stir fry with soy sauce",
+      "ingredients": [
+        "2 bell peppers",
+        "1 broccoli head",
+        "2 carrots",
+        "1 zucchini",
+        "1 onion",
+        "3 cloves garlic",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp honey",
+        "1 tsp ginger paste"
+      ],
+      "instructions": [
+        "Chop all vegetables into bite-sized pieces",
+        "Heat oil in a wok over high heat",
+        "Add garlic and onion, stir for 30 seconds",
+        "Add harder vegetables first (carrots, broccoli)",
+        "Add remaining vegetables and stir fry until tender-crisp",
+        "Mix soy sauce, honey, and ginger in a bowl",
+        "Pour sauce over vegetables and toss to coat",
+        "Serve over rice or noodles"
+      ]
+    }
+  ]
+}
