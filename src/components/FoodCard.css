@@ -1,0 +1,31 @@
+.food-card-img {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .food-card-img.Italian {
+    background: linear-gradient(rgba(0, 100, 0, 0.7), rgba(0, 100, 0, 0.7)), url('/images/food-pattern.png');
+  }
+  
+  .food-card-img.Indian {
+    background: linear-gradient(rgba(180, 30, 30, 0.7), rgba(180, 30, 30, 0.7)), url('/images/food-pattern.png');
+  }
+  
+  .food-card-img.Mexican {
+    background: linear-gradient(rgba(210, 160, 30, 0.7), rgba(210, 160, 30, 0.7)), url('/images/food-pattern.png');
+  }
+  
+  .food-card-img.Asian {
+    background: linear-gradient(rgba(30, 30, 150, 0.7), rgba(30, 30, 150, 0.7)), url('/images/food-pattern.png');
+  }
+  
+  .food-card-img.default {
+    background: linear-gradient(rgba(100, 100, 100, 0.7), rgba(100, 100, 100, 0.7)), url('/images/food-pattern.png');
+  }

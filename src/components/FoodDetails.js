@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, Link } from 'react-router-dom';
 import { fetchFoodDetailsRequest } from '../redux/actions';
-import { Container, Row, Col, Image, ListGroup, Card, Spinner, Button } from 'react-bootstrap';
+import { Container, Row, Col, Image, ListGroup, Card, Spinner } from 'react-bootstrap';
 
 const FoodDetails = () => {
   const { id } = useParams();
